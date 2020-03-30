@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.60ec9315.chunk.css",
-    "main.js": "/static/js/main.9416320b.chunk.js",
-    "main.js.map": "/static/js/main.9416320b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c13315.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c13315.js.map",
-    "static/js/2.8198f056.chunk.js": "/static/js/2.8198f056.chunk.js",
-    "static/js/2.8198f056.chunk.js.map": "/static/js/2.8198f056.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dc0eaf7b4d7a27d9df7d194cb5ba7185.js": "/precache-manifest.dc0eaf7b4d7a27d9df7d194cb5ba7185.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.60ec9315.chunk.css.map": "/static/css/main.60ec9315.chunk.css.map",
-    "static/js/2.8198f056.chunk.js.LICENSE.txt": "/static/js/2.8198f056.chunk.js.LICENSE.txt"
+    "main.css": "/mash-rajab-cannabis-shop/static/css/main.60ec9315.chunk.css",
+    "main.js": "/mash-rajab-cannabis-shop/static/js/main.87d971a6.chunk.js",
+    "main.js.map": "/mash-rajab-cannabis-shop/static/js/main.87d971a6.chunk.js.map",
+    "runtime-main.js": "/mash-rajab-cannabis-shop/static/js/runtime-main.d0a25b05.js",
+    "runtime-main.js.map": "/mash-rajab-cannabis-shop/static/js/runtime-main.d0a25b05.js.map",
+    "static/js/2.8198f056.chunk.js": "/mash-rajab-cannabis-shop/static/js/2.8198f056.chunk.js",
+    "static/js/2.8198f056.chunk.js.map": "/mash-rajab-cannabis-shop/static/js/2.8198f056.chunk.js.map",
+    "index.html": "/mash-rajab-cannabis-shop/index.html",
+    "precache-manifest.7939e8debdfe89f9ebd68d80d32d696e.js": "/mash-rajab-cannabis-shop/precache-manifest.7939e8debdfe89f9ebd68d80d32d696e.js",
+    "service-worker.js": "/mash-rajab-cannabis-shop/service-worker.js",
+    "static/css/main.60ec9315.chunk.css.map": "/mash-rajab-cannabis-shop/static/css/main.60ec9315.chunk.css.map",
+    "static/js/2.8198f056.chunk.js.LICENSE.txt": "/mash-rajab-cannabis-shop/static/js/2.8198f056.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c13315.js",
+    "static/js/runtime-main.d0a25b05.js",
     "static/js/2.8198f056.chunk.js",
     "static/css/main.60ec9315.chunk.css",
-    "static/js/main.9416320b.chunk.js"
+    "static/js/main.87d971a6.chunk.js"
   ]
 }
