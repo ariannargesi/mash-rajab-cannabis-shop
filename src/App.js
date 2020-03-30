@@ -84,8 +84,8 @@ class App extends Component {
       <div>
         <Router>
           <Switch>
-            <Route path="/" exact component={ () => <ProductsList addToCard={this.handleAddToCard} removeFromCard={this.handleRemoveFromCard} products={this.state.products} />}/>
-            <Route path="/add-product" component={ () => <AddProduct handler={this.handleAddProduct} /> }/>
+            <Route path="/mash-rajab-cannabis-shop" exact component={ () => <ProductsList addToCard={this.handleAddToCard} removeFromCard={this.handleRemoveFromCard} products={this.state.products} />}/>
+            <Route path="/mash-rajab-cannabis-shop/add-product" component={ () => <AddProduct handler={this.handleAddProduct} /> }/>
           </Switch>
           <Footer/>
         </Router>

@@ -1,14 +1,14 @@
 import React from 'react'
 import './Footer.sass'
 
-import { Link, BrowserRouter as Router  } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
     return (
       <footer>
-          <Link to="/">Products </Link>
+          <Link to="/mash-rajab-cannabis-shop">Products </Link>
           or
-          <Link to="/add-product"> Add Product </Link>
+          <Link to="/mash-rajab-cannabis-shop/add-product"> Add Product </Link>
       </footer>
     )
 }
